@@ -1,0 +1,1 @@
+FROM docker.io/bitnami/kubeapps-apprepository-controller:1.3.1
