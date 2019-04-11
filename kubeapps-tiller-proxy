@@ -1,0 +1,1 @@
+FROM docker.io/bitnami/kubeapps-tiller-proxy:1.3.1
